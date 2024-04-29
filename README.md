@@ -66,7 +66,7 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" alt="discord logo"  />
   </a>
-  <a href="hhttps://stackoverflow.com/users/20315389/highdevwizards" target="_blank">
+  <a href="https://stackoverflow.com/users/20315389/highdevwizards" target="_blank">
     <img src="https://img.shields.io/stackexchange/stackoverflow/t/flat" alt="stackoverflow logo"  />
   </a> 
 </div>
