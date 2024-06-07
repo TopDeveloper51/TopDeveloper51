@@ -40,7 +40,7 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 ![](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
 
 #### Mobile
-![](https://img.shields.io/badge/React-Native_i7_11th-0071C5?style=flat&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/React Native-0071C5?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 #### Blockchain
