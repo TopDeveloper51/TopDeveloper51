@@ -44,7 +44,7 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 
 #### AI/ML
 ![](https://img.shields.io/badge/Pandas-366C3D?style=flat&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-3C773D?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-AC773D?style=flat&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-3C399D?style=flat&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-3C3C9A?style=flat&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Scikitlearn-6C3CF1?style=flat&logo=scikitlearn&logoColor=white)
