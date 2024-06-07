@@ -29,8 +29,8 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/Django-323330?style=flat&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Flask-323330?style=flat&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Django-32FF30?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Flask-3233AA?style=flat&logo=flask&logoColor=white)
 
 #### Database
 
