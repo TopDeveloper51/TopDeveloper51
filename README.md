@@ -22,7 +22,7 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 
 #### Backend
 
-![](https://img.shields.io/badge/Python-323330?style=flat&logo=python&logoColor=#3776AB)
+![](https://img.shields.io/badge/Python-626360?style=flat&logo=python&logoColor=3776AB)
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -44,7 +44,7 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 
 #### AI/ML
 ![](https://img.shields.io/badge/Pandas-366C3D?style=flat&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-AC773D?style=flat&logo=pytorch&logoColor=EE4C2C)
+![](https://img.shields.io/badge/PyTorch-AC773D?style=flat&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-3C399D?style=flat&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-3C3C9A?style=flat&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Scikitlearn-6C3CF1?style=flat&logo=scikitlearn&logoColor=white)
