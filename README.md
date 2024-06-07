@@ -29,8 +29,8 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/django-323330?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/flask-323330?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Django-323330?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Flask-323330?style=flat&logo=flask&logoColor=white)
 
 #### Database
 
@@ -43,23 +43,23 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
 
 #### AI/ML
-![](https://img.shields.io/badge/pandas-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
-![](https://img.shields.io/badge/pytorch-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
-![](https://img.shields.io/badge/tensorflow-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
-![](https://img.shields.io/badge/numpy-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
-![](https://img.shields.io/badge/scikitlearn-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
-![](https://img.shields.io/badge/keras-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
-![](https://img.shields.io/badge/openai-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
+![](https://img.shields.io/badge/Pandas-3C3C3D?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-3C3C3D?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Tensorflow-3C3C3D?style=flat&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Numpy-3C3C3D?style=flat&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Scikitlearn-3C3C3D?style=flat&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Keras-3C3C3D?style=flat&logo=keras&logoColor=white)
+![](https://img.shields.io/badge/Openai-3C3C3D?style=flat&logo=openai&logoColor=white)
 
 #### Other
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-%23DD0031.svg?&style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/kubernetes-%23DD0031.svg?&style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-%23DD5531.svg?&style=flat&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
-![](https://img.shields.io/badge/amazonwebservices-0052CC?style=flat&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/AWS-3352CC?style=flat&logo=amazonwebservices&logoColor=white)
 
 # 💻 Workspace
 
