@@ -29,6 +29,8 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/django-323330?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/flask-323330?style=flat&logo=python&logoColor=white)
 
 #### Database
 
@@ -40,13 +42,24 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 #### Blockchain
 ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
 
+#### AI/ML
+![](https://img.shields.io/badge/pandas-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
+![](https://img.shields.io/badge/pytorch-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
+![](https://img.shields.io/badge/tensorflow-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
+![](https://img.shields.io/badge/numpy-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
+![](https://img.shields.io/badge/scikitlearn-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
+![](https://img.shields.io/badge/keras-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
+![](https://img.shields.io/badge/openai-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
+
 #### Other
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-%23DD0031.svg?&style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-%23DD0031.svg?&style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/amazonwebservices-0052CC?style=flat&logo=Jira&logoColor=white)
 
 # 💻 Workspace
 
