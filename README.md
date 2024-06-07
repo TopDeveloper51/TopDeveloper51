@@ -22,7 +22,7 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 
 #### Backend
 
-![](https://img.shields.io/badge/Python-6263F0?style=flat&logo=python&logoColor=3776AB)
+![](https://img.shields.io/badge/Python-3233F0?style=flat&logo=python&logoColor=3776AB)
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
