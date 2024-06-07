@@ -29,7 +29,7 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/Django-32FF30?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Django-329930?style=flat&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Flask-3233AA?style=flat&logo=flask&logoColor=white)
 
 #### Database
@@ -43,13 +43,13 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
 
 #### AI/ML
-![](https://img.shields.io/badge/Pandas-3C3C3D?style=flat&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-3C3C3D?style=flat&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/Tensorflow-3C3C3D?style=flat&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Numpy-3C3C3D?style=flat&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Scikitlearn-3C3C3D?style=flat&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Pandas-366C3D?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-3C773D?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Tensorflow-3C399D?style=flat&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Numpy-3C3C9A?style=flat&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Scikitlearn-6C3CF1?style=flat&logo=scikitlearn&logoColor=white)
 ![](https://img.shields.io/badge/Keras-3C3C3D?style=flat&logo=keras&logoColor=white)
-![](https://img.shields.io/badge/Openai-3C3C3D?style=flat&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Openai-3C4C7D?style=flat&logo=openai&logoColor=white)
 
 #### Other
 
