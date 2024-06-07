@@ -39,6 +39,9 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
 
+#### Mobile
+![](https://img.shields.io/badge/Flutter-#02569B?style=flat&logo=flutter&logoColor=white)
+
 #### Blockchain
 ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
 
